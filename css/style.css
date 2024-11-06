@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;   
+}
+
+.header {
+    color: black;
+}
+
+.header h1 {
+    font-size: 50px;
+}
